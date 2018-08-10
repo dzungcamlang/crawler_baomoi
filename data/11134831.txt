@@ -1,0 +1,7 @@
+Máy theo dõi bệnh nhân đa thông số xách tay
+SGTT.VN - Các nhà khoa học của viện Nghiên cứu điện tử, tin học và tự động hóa (bộ Công thương) đã chế tạo thành công thiết bị theo dõi bệnh nhân đa thông số xách tay (ảnh).
+Thiết bị đo được năm thông số cơ bản gồm: điện tim đồ, theo dõi nhịp tim, nồng độ bão hòa oxy trong máu, đo huyết áp và theo dõi nhiệt độ cơ thể. Thiết bị có màn hình hiển thị thông số giúp các y, bác sĩ theo dõi biểu hiện lâm sàng trong quá trình điều trị bệnh nhân. Với tính năng kết nối máy tính qua wifi, nhân viên y tá có thể kiểm tra các thông số của bệnh nhân từ xa, qua đó điều chỉnh thiết bị y tế để chăm sóc bệnh nhân tốt hơn…tin, ảnh Hoàng Tuấn
+30/05/13 07:49 GMT+7
+Đời sống
+Thông số,Bệnh nhân,Theo dõi,Đo huyết áp,Thiết bị,Hoàng Tuấn,Nhiệt độ cơ thể,Y bác sĩ,Thiết bị y tế,Y tá,Nhịp tim
+SGTT

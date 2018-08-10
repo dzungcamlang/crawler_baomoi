@@ -1,0 +1,7 @@
+Apple sẽ cung cấp thêm nhiều API hơn cho lập trình viên
+Trong khuôn khổ buổi phóng vấn tại hội nghị D11, ngoài việc khẳng định iOS 7 sẽ xuất hiện tại WWDC 2013 tới đây thì giám đốc điều hành Apple Tim Cook còn cho biết hãng sẽ cung cấp thêm nhiều API mới hơn cho lập trình viên. Điều này có nghĩa là các phần mềm có thể tận dụng thêm nhiều hơn tài nguyên hệ thống, tối ưu hiệu năng được tốt hơn. Ngoài ra rất có thể sẽ có thêm nhiều tính năng mới sẽ được Apple phát triển và cung cấp cho lập trình viên thông qua các API này. Điều này rất quan trọng vì nó sẽ giúp lập trình viên giảm nhẹ được công việc của mình. Còn 11 ngày nữa thì WWDC 2013 sẽ diễn ra, và giờ thì chúng ta có lí do để chờ đợi.
+Trong khuôn khổ buổi phóng vấn tại hội nghị D11 , ngoài việc khẳng định iOS 7 sẽ xuất hiện tại WWDC 2013 tới đây thì giám đốc điều hành Apple Tim Cook còn cho biết hãng sẽ cung cấp thêm nhiều API mới hơn cho lập trình viên. Điều này có nghĩa là các phần mềm có thể tận dụng thêm nhiều hơn tài nguyên hệ thống, tối ưu hiệu năng được tốt hơn. Ngoài ra rất có thể sẽ có thêm nhiều tính năng mới sẽ được Apple phát triển và cung cấp cho lập trình viên thông qua các API này. Điều này rất quan trọng vì nó sẽ giúp lập trình viên giảm nhẹ được công việc của mình. Còn 11 ngày nữa thì WWDC 2013 sẽ diễn ra, và giờ thì chúng ta có lí do để chờ đợi.Nguồn: Engadget 
+29/05/13 12:27 GMT+7
+Công nghệ 
+Lập trình viên,API,WWDC,Apple,IOS,Hiệu năng,Giảm nhẹ,Tối ưu,Tài nguyên,Khuôn khổ,CEO
+Tinh Tế

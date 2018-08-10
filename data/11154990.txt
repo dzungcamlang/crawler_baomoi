@@ -1,0 +1,7 @@
+Trình duyệt web Camino bị khai tử trên Mac OS X
+(TNO) Stuart Morgan - quản lý cấp cao của trình duyệt web Camino - vừa chính thức tuyên bố khai tử trình duyệt web Camino chạy trên hệ điều hành Mac OS X, với lý do nó đã quá cũ và lạc hậu.
+Theo Engadget ngày 1.6, đây được xem là một điều không quá bất ngờ nhưng cũng là điều khá nuối tiếc, bởi đây được xem như là một trình duyệt của một hãng thứ 3 xây dựng dành riêng cho hệ điều hành Mac OS X.Trình duyệt web Camino chính thức bị khai tử trên Mac OS X - Ảnh chụp màn hìnhTrình duyệt web Camino ra đời chính thức vào năm 2002, được xem là một giải pháp hoàn hảo nếu người dùng cảm thấy trình duyệt Safari có sẵn trên Mac OS X chưa đáp ứng được nhu cầu sử dụng của mình (lúc đó các trình duyệt web như Chrome hay Firefox chưa có phiên bản trên Mac OS X).Tuy nhiên, theo thời gian Camino dần dần bị các trình duyệt web hiện đại hơn như Chrome, Firefox qua mặt và được người dùng ưa chuộng hơn.Trong một tuyên bố chính thức, Stuart Morgan cho rằng theo thời gian trình duyệt web Camino đã bộc lộ ra những điểm yếu như độ bảo mật kém, ít được cập nhật cải tiến, tốc độ lướt web không nhanh... cho nên việc khai tử trình duyệt web này trên Mac OS X là điều cần thiết.Stuart Morgan cũng đưa ra khuyến cáo để có tốc độ lướt web nhanh và an toàn hơn trên hệ điều hành Mac OS X, người dùng nên chuyển sang sử dụng các trình duyệt web như Chrome, Firefox hoặc Safari.Thành Luân
+01/06/13 20:25 GMT+7
+Công nghệ 
+Trình duyệt web,Mac OS X,Khai tử,Google chrome,Firefox,Safari,Hệ điều hành,Trình duyệt,Lướt web,Người dùng,Tốc độ
+Thanh Niên

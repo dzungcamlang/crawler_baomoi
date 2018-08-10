@@ -1,0 +1,7 @@
+Chế thành công Robot biết yêu cực độc
+(Kienthuc.net.vn) - Trong một dự án mới, các chuyên gia người Đức Nikolas Schmid-Pfahler và Carolin Liebl đã chế tạo ra Vincent và Emily - một cặp rô bốt biết... yêu.
+Cặp rô bốt này tiếp nhận âm thanh và dữ liệu chuyển động của đối phương qua các cảm biến, sau đó biểu hiện tình cảm của mình thông qua động cơ và bánh răng. Cử động của rô bốt được thực hiện nhờ hệ thống kéo, bao gồm 3 động cơ mà chuyển động quay được chuyển đổi thành chuyển động tuyến tính qua bánh răng và thanh răng.  Theo các chuyên gia: "Sự bất đồng đã được lập trình từ trước. Cũng như trong mối quan hệ của người, sẽ có lúc cặp rô bốt này hiểu lầm lẫn nhau. Lúc đó, nếu Vincent gửi tín hiệu tích cực bằng những cử động lên xuống, Emily có thể diễn giải nhầm thành tín hiệu tiêu cực".  Dự án này nhằm mục đích khám phá mô hình lý tưởng của mối quan hệ nam nữ bằng cách đưa nó về dạng thức cơ bản hơn.  : :
+31/05/13 14:44 GMT+7
+Công nghệ 
+Rô-bốt,Emily,Bánh răng,Cử động,Chuyển động,Tuyến tính,Chuyển động quay,Tín hiệu,Cực độc,Quan hệ nam nữ,Động cơ
+Kiến Thức

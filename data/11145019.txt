@@ -1,0 +1,7 @@
+Ứng dụng chương trình thông tin và quản lý không lưu mới
+TCT Cảng Hàng không VN vừa khai mạc lớp học đầu tiên theo chương trình thông tin, đường dẫn, giám sát và quản lý thông tin (CNS/ATM) mới.
+Đây là một dự án lớn, mang tính toàn cầu và các nước thành viên ICAO bắt buộc phải triển khai từ nay đến 2015. Dự án bao gồm nhiều công việc khác nhau và phải được triển khai đồng bộ như: Đầu tư trang thiết bị mới, đo tọa độ sân bay theo WGS84, thiết lập phương thức bay PBN, đào tạo huấn luyện cho cán bộ, nhân viên hoạt động trong lĩnh vực quản lý hoạt động bay... Trong đó, công tác đào tạo huấn luyện là một mảng rất quan trọng, khối lượng công việc rất lớn, thực hiện khẩn trương trong vòng 3 năm và sau đó tiếp tục triển khai cho các nhân viên mới.Với đặc thù là một đơn vị lớn (trên 500 nhân viên), TCT Cảng Hàng không VN đặt mục tiêu năm 2013 có 40% CB-CNV được đào tạo khóa cơ bản, năm 2014: 60% còn lại học khóa cơ bản và 50% học khóa nâng cao; năm 2015: 50% còn lại học khóa nâng cao và đào tạo khóa cơ bản cho nhân viên mới. Lớp học đầu tiên được tổ chức từ ngày 27/5 đến 1/6/2013. Trực tiếp giảng dạy là các huấn luyện viên của Tổng công ty đã được cử đi học các khóa đào tạo của JICA và Cục Hàng không VN, được các tổ chức này cấp chứng chỉ.Minh Nghĩa
+31/05/13 10:35 GMT+7
+Kinh tế
+Học khóa,Cảng hàng không,Đào tạo,Lớp học,Huấn luyện,Triển khai,Nhân viên,Cơ quan hợp tác quốc tế nhật bản,Quản lý,Công nhân viên,Cục hàng không dân dụng
+Giao Thông

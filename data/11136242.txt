@@ -1,0 +1,7 @@
+Microsoft nâng dung lượng nhớ Surface Pro lên 256GB
+Kể từ khi phát hành sản phẩm máy tính bảng Surface, Microsoft đã bị cáo buộc là cố tình gây hiểu nhầm về dung lượng bộ nhớ trong ở các chương trình quảng bá của họ.
+Mẫu máy tính bảng Surface Pro. (Nguồn: bit-tech.net)Cụ thể, mẫu Surface Pro bản 64GB chỉ có…23GB là dùng được, trong khi với bản 128GB, lượng bộ nhớ có thể dùng là 83GB. Nguyên nhân là do hệ điều hành có tích hợp kèm nhiều ứng dụng chương trình cài sẵn đã chiếm quá nhiều bộ nhớ. Trước tình hình đó, vào hôm 29/5, Microsoft đã ra thông báo cho biết họ sẽ bán Surface Pro tại thị trường Nhật Bản với dung lượng nhớ được tăng lên gấp đôi. Theo đó, “gã khổng lồ phần mềm” đã quyết định bỏ qua mẫu Surface Pro 64GB, và chỉ bán 2 bản 128GB (giá 99.800 yen hay 975 USD) và 256GB (119.800 yen hay 1.170 USD). Phía Microsoft cũng lưu ý rằng bản 256GB sẽ chỉ có khoảng 200GB là dùng được. Dự kiến, Surface Pro sẽ chính thức được phát hành tại Nhật Bản từ ngày 7/6 với bộ phần mềm Microsoft Office 2013 Home & Business đầy đủ được cài sẵn. Hiện chưa rõ tới khi nào, Microsoft mới đưa phiên bản Surface Pro mới ra các thị trường khác./.Văn Hưng (Vietnam+)
+30/05/13 09:45 GMT+7
+Công nghệ 
+Surface,Microsoft,Dung lượng nhớ,Tablet pc,Yen,Bộ nhớ,Microsoft Office,Bộ nhớ trong,Phần mềm,Phát hành,Hiểu lầm
+TTXVN

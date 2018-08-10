@@ -1,0 +1,7 @@
+Cách cập nhật ứng dụng trong iTunes 11.0.3
+(TNO) Apple vừa chính thức tung ra bản cập nhập 11.0.3 cho cửa hàng trực tuyến iTunes của mình. Trong đó, có một thay đổi nhỏ là sửa đổi lại cách cập nhật cho các ứng dụng.
+Sau đây là cách thức cập nhật một ứng dụng mới trên iTunes 11.0.3Bước 1: Kích hoạt chương trình iTunes 11.0.3 lên và bấm vào thẻ Apps nằm ở góc bên tay trái màn hình.Apple vừa thay đổi lại cách thức cập nhật ứng dụng trên iTunes bản 11.0.3 - Ảnh chụp màn hìnhBước 2: Trong cửa sổ vừa xuất hiện, nếu thấy góc bên phải một ứng dụng nào có xuất hiện chữ Update (màu đỏ) thì có nghĩa là ứng dụng đó đã có phiên bản mới và cần được nâng cấp.Bước 3: Trong cửa sổ này, hãy bấm vào menu Updates nằm ở phía trên góc phải màn hình, trong cửa sổ mới vừa hiện ra có thể chọn từng ứng dụng riêng biệt để cập nhật hoặc bấm vào tùy chọn Updates All Apps nằm ở góc phải dưới màn hình để thực hiện việc cập nhật hàng loạt tự động.Thành Luân
+01/06/13 15:39 GMT+7
+Công nghệ 
+ITunes,Cập nhật,Ứng dụng,Góc phải,Màn hình,Cửa sổ,Apple,Cách thức,Tay trái,Menu,Kích hoạt
+Thanh Niên

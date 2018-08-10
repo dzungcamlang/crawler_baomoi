@@ -1,0 +1,7 @@
+LG Optimus L4 và L4 Dual lộ cấu hình và hình ảnh chính thức
+Optimus L4 (trái) và L4 Dual 2 SIM
+Một website tiếng Nga vừa đăng tải một số hình ảnh báo chí và cấu hình của hai chiếc điện thoại Android phổ thông có tên Optimus L4 và L4 Dual (2 sim) của LG . Cả hai đều chạy trên Android 4.1, cùng cấu hình nhưng khác thiết kế với chip xử lý Cortex-A9 đơn nhân 1GHz, chip đồ họa PowerVR SGX531, màn hình True IPS HVGA 3.8" cùng bộ nhớ RAM 512MB.Mặt trước của hai chiếc máy này hơi khác nhau, trong đó điểm khác biệt đáng chú ý nhất là L4 chỉ có 2 phím cảm ứng, còn L4 Dual 2 SIM thì có đến 4 phím cảm ứng, với phím thứ 4 nằm ngoài cùng bên phải dường như dùng để chuyển đổi qua lại giữa 2 SIM để sử dụng.Ngoài ra cả hai máy đều có bộ nhớ trong 4GB, thẻ nhớ gắn ngoài microSD, camera 3MP, đèn LED Flash, pin 1.700mAh và có đầy đủ các kết nối phổ thông như Wi-Fi, BT 3.0, 3G, HSPA. Trước đây LG từng có Optimus L3, L5, L7, và L9. Sự xuất hiện của L4 cho thấy rất có thể chúng ta sẽ có thêm cả L6 và L8 trong tương lai. Dự kiến L4 và L4 Dual sẽ được chính thức giới thiệu vào cuối tháng 6 năm nay với giá lần lượt là 135 Euro (176 USD) và 145 Euro (189 USD).Một số cấu hình cơ bản của L4 và L4 Dual: Android 4.1 Chip xử lý: Cortex-A9 đơn nhân 1GHz GPU: PowerVR SGX531 Màn hình: 3.8" True IPS HVGA Camera: 3MP, Flash LED RAM: 512MB Bộ nhớ trong: 4GB Thẻ nhớ gắn ngoài microSD Kết nối: Wi-Fi, BT 3.0, 3G, HSPATheo GSMArena 
+31/05/13 14:51 GMT+7
+Công nghệ 
+Sim,Cấu hình,HSPA,Google Android,LG,Chip,MicroSD,Bộ nhớ trong,RAM,Flash,Cảm ứng
+Tinh Tế

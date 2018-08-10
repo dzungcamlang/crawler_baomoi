@@ -1,0 +1,7 @@
+Opera ra mắt phiên bản duyệt web mới
+(TNO) Hãng Opera vừa tung ra phiên bản mới cho trình duyệt web dành cho hệ điều hành Windows và Mac, với tên gọi mới là Opera Next.
+Theo CNet hôm 28.5, sự đổi mới quan trọng nhất của trình duyệt web này là "nhân trình duyệt" đã chuyển sang Chromium, tức cùng nhân với trình duyệt web Chrome nổi tiếng của Google.Giao diện của Opera Next - Ảnh chụp màn hìnhĐiều này có nghĩa là tốc độ lướt web của Opera Next sẽ được cải tiến mạnh mẽ hơn rất nhiều so với bản duyệt web Opera hiện tại.Ngoài ra, Opera Next còn cải tiến tính năng Speed Dial (dùng để chứa shortcut của các trang web hay truy cập), với khả năng gom nhiều trang web hay truy cập thành một thư mục cho dễ quản lý.Opera Next cũng không còn quản lý Bookmark theo cách cũ mà thay vào đó nó sử dụng Speed Dial và Stash để lưu giữ những trang web hay truy cập.Tức là, khi gặp một trang web nào hay mà muốn lưu lại, người dùng chỉ cần nhấn vào biểu tượng hình trái tim ở phía cuối thanh công cụ, trang web đó sẽ được lưu lại trong phần Stash của Opera.Hiện tại, người dùng có thể vào trang chủ của Opera để tải phiên bản Opera Next về máy.Thành Luân
+29/05/13 06:49 GMT+7
+Công nghệ 
+Ô-pê-ra,Trình duyệt web,Lướt web,Website,Truy cập,Cải tiến,Google chrome,Người dùng,Thư mục,Phiên bản,Toolbar
+Thanh Niên

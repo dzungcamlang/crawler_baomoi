@@ -1,0 +1,7 @@
+Nhận dạng cử động bàn tay người
+(HNM) - Các nhà nghiên cứu Khoa Công nghệ thông tin (Học viện Kỹ thuật quân sự) đã nghiên cứu thành công kỹ thuật nhận dạng cử động của bàn tay người theo thời gian thực.
+Đề tài được thực hiện với mục tiêu chính là nghiên cứu phát triển thuật toán phát hiện, nhận dạng các đối tượng trong ảnh theo thời gian thực, ứng dụng trong tương tác người máy thông qua cử động của bàn tay người. Từ đó, tạo lập nhóm nghiên cứu chuyên sâu về thị giác máy tính và tương tác người máy.Đề tài đã đề xuất thuật toán nhận dạng đáp ứng được các yêu cầu về xử lý theo thời gian thực và có độ chính xác tương đương các kết quả nghiên cứu đã công bố trên thế giới (xấp xỉ 90%). Hiện nhóm nghiên cứu tiếp tục hoàn thiện hệ thống hỗ trợ tra cứu thông tin và điều khiển thiết bị từ xa nhằm hướng tới các ứng dụng như: tra cứu thông tin hồ sơ bệnh nhân (khi bác sĩ không được phép chạm tay vào các vật dụng điều khiển); điều khiển robot trợ giúp người khuyết tật; tích hợp điều khiển tivi, máy nghe nhạc từ xa... Trong công nghiệp quốc phòng có thể áp dụng các thuật toán nhận dạng cử động tích hợp vào các hệ thống điều khiển, dẫn đường các phương tiện khí tài.
+31/05/13 07:44 GMT+7
+Công nghệ 
+Nhận dạng,Cử động,Thuật toán,Điều khiển,Thời gian thực,Rô-bốt,Bàn tay,Tra cứu,Tương tác,Hồ sơ bệnh nhân,Nhóm nghiên cứu
+Hà Nội Mới

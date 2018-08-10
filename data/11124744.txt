@@ -1,0 +1,7 @@
+Kết quả benchmark của Motorola Razr i XT890 dùng chip Intel Atom 1 nhân
+Hôm trước Tinh Tế đã có bài Trên tay Motorola Razr i XT890, chiếc điện thoại dùng chip xử lý của Intel. Như chúng ta đã biết, XT890 có màn hình rộng 4.3" độ phân giải qHD, chạy Android 4.1.2 với cấu hình ở mức trung bình là CPU Atom 1 nhân (Medfield Z2460 xung nhịp 1,6GHz), RAM 1GB. Tuy nhiên, khi thử chạy những phép benchmark quen thuộc trên chiếc Razr i thì điểm số đạt được của máy không hề tệ chút nào, đều ở mức trung bình, thậm chí có phép thử nghiệm còn cao hơn cả Nexus 4 hoặc Galaxy S3. Sau đây mời các bạn xem qua những kết quả này.
+Các phép đánh giá tổng hợp Có 3 phép thử quen thuộc được sử dụng gồm Geekbench 2, Antutu và Quadrant. Razr i đạt 14.357 điểm Antutu, cao hơn cả Xperia Z và Nexus 4 vốn là 2 chiếc điện thoại có CPU 4 nhân.Các phép thử sức mạnh tính toán của CPU Mình dùng 3 phần mềm là Benchmark Pi, Billion Counter (đếm từ 1 đến 1 tỷ) và Vellano, cũng là những ứng dụng quen thuộc.Các phép thử sức mạnh đồ họa Con CPU Atom Medfield của Razr được tích hợp GPU PowerVGR540. Vì chỉ có 1 nhân nên GPU này có sức mạnh xử lý không nổi bật so với các sản phẩm nhiều nhân hiện nay.Ảnh chụp về điểm số của các phép benchmark kể trên:
+28/05/13 20:18 GMT+7
+Công nghệ 
+Cpu,GPU,Motorola,Điểm số,Thử sức,Samsung galaxy s iii,Chip intel,Điện thoại,Google Android,RAM,Cấu hình
+Tinh Tế

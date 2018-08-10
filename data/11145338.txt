@@ -1,0 +1,7 @@
+Ứng dụng Shazam cho Windows Phone nâng cấp: nghe để tìm nhạc, hiển thị nhiều thông tin bài hát
+Ứng dụng tìm kiếm nhạc nổi tiếng Shazam mới đây đã ra mắt phiên bản mới dành cho Windows Phone 8 và 7.5. Giống như app của các nền tảng khác, Shazam trên Windows Phone có thể lắng nghe một đoạn nhạc và tìm đầy đủ thông tin về tựa đề, tên ca sĩ, tên album của bài hát. Bạn được phép tìm kiếm bao nhiêu đoạn nhạc tùy thích, khi app đã trả về kết quả rồi thì bạn có thể tìm kiếm video có liên quan trên YouTube, mua nhạc qua Xbox Music hoặc Nokia Music, xem lời bài hát, xem thông tin về ca sĩ, chia sẻ lên các mạng xã hội. Ngoài ra, Shazam còn bổ sung tính năng "Local Tags", tức là ứng dụng sẽ tìm kiếm xem trong thời gian gần đây những bài nhạc nào đã được tìm kiếm trong khu vực mà bạn đang đứng. Phần mềm này còn cho phép chúng ta đính một Tile ra màn hình chính của Windows Phone và khi nhấn vào đây thì app sẽ ngay lập tức bắt đầu quá trình lắng nghe, tiết kiệm được rất nhiều thời gian. Ngay bây giờ bạn đã có thể tải về ứng dụng Shazam cho Windows Phone.
+Để quét mã này, bạn nhấn phím tìm kiếmtrên máy, nhấn tiếp vào biểu tượng con mắttrong app Bing mới mở ra. Đưa camera của điện thoại lên để quét mã này.Một số ảnh chụp màn hình của app Shazam trên Windows Phone 8Nguồn: Windows Phone Store 
+31/05/13 11:37 GMT+7
+Công nghệ 
+Windows phone,Nhạc,Tìm kiếm,Ứng dụng,Bài hát,Lắng nghe,Bing.com,Màn hình,Tùy thích,Xbox,Ca sĩ
+Tinh Tế

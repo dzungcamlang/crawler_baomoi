@@ -1,0 +1,7 @@
+Xe đạp tích hợp GPS, kết nối Bluetooth
+Thách thức lớn với người đi xe đạp là trời tối và tới nơi lạ. Doanh nghiệp trẻ Helios giải quyết điều đó bằng loại ghi-đông tích hợp đèn Led và hệ thống GPS kết nối bằng Bluetooth.
+Thách thức lớn với người đi xe đạp là trời tối và tới nơi lạ. Doanh nghiệp trẻ Helios giải quyết điều đó bằng loại ghi-đông tích hợp đèn Led và hệ thống GPS kết nối bằng Bluetooth.Có thể lắp ghi-đông Helios lên hầu hết các loại xe đạp và kết nối với điện thoại thông qua Bluetooth. Ghi-đông xe sẽ dùng hệ thống GPS trong điện thoại của bạn để quản lý sự di chuyển của xe. Bạn có thể nhập vào một điểm đến vào điện thoại thông qua ứng dụng Helios (hiện mới chỉ có cho hệ điều hành iOS) lên xe và ghi-đông Helios sẽ chỉ đường chi tiết cho bạn đi, chiếu sáng đường và xi-nhan bằng đèn Led.Chỉ với một nút nhấn, đèn Led ở hai đầu ghi-đông (quay về phía sau) sẽ hoạt động như đèn xi-nhan. Khi không bật nút, các đèn Led có vai trò như đồng hồ tốc độ - đổi màu theo tốc độ xe. Ghi-đông hoạt động được như vậy nhờ bộ pin sạc li-ion mà hãng Helios giới thiệu là có thời gian sử dụng lên đến 7 tiếng sau mỗi lần sạc. Ứng dụng Helios cũng có thể xác định khoảng cách của người lái với chiếc xe đạp, để tự động tắt/bật đèn, từ đó tiết kiệm năng lượng. Helios cho biết giá mỗi chiếc ghi-đông này là 199 USD, màu đen hoặc trắng, kiểu xe đua hoặc sừng bò.Bảo Anh (TH)
+01/06/13 08:21 GMT+7
+Công nghệ 
+Ghi đông,Đèn led,Gps,Bluetooth,Xe đạp,Kết nối,Tích hợp,Điện thoại,Công tơ mét,Nguyễn Hoài Bảo Anh,Xi nhan
+Giao Thông

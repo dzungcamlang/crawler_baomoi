@@ -1,0 +1,7 @@
+Những thông tin mới nhất về hệ điều hành Android 4.3
+Trước khi diễn ra I/O Developers Conference 2013, dư luận tin rằng Google sẽ ra mắt phiên bản Android mới tại sự kiện thường niên này.
+Tuy nhiên, cho đến khi I/O Developers Conference năm nay kết thúc thì Google vẫn hoàn toàn im lặng về hệ điều hành di động của họ. Gần đây nhất, nguồn thạo tin XDA-Developers cho biết phiên bản Android mới sẽ được tung ra trong vài tháng tới. Đặc điểm nổi bật của phiên bản này là hỗ trợ chuẩn Bluetooth dùng nguồn điện hiệu quả hơn. Nguồn tin trên cũng đã cung cấp hai hình ảnh cho thấy màn hình thử nghiệm của thiết bị Nexus 4 chạy Android 4.3. Qua những hình ảnh, có thể thấy Android 4.3 vẫn mang tên Jelly Bean, tương tự như Android 4.2. Theo nguồn XDA-Developers, bản 4.3 không có những cải tiến đột phá như dư luận kỳ vọng mà Google chỉ đưa vào một số thay đổi nhỏ cùng các phần sửa lỗi. Cụ thể, bản Android mới sẽ được nâng cấp ứng dụng camera, cùng các phần điều khiển nằm dạt sang một bên thay vì tập trung ở giữa như trước. Dưới đây là hai hình ảnh về màn hình Android 4.3.Văn Hưng (Vietnam+)
+27/05/13 11:08 GMT+7
+Công nghệ 
+Google Android,Google,Phiên bản,Android jelly bean,Hệ điều hành,Thạo tin,Màn hình,Sửa lỗi,Hình ảnh,Dư luận,Nguồn điện
+TTXVN
