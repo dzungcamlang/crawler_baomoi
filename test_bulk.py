@@ -9,12 +9,13 @@ import os
 
 def gendata():
     # mywords = ['foo', 'bar', 'baz']
-    for filename in os.listdir("datatest"):
-        with open(os.path.join('datatest', filename)) as f:
+    for filename in os.listdir("data"):
+        with open(os.path.join('data', filename), encoding='utf8') as f:
             contentMod = f.read().split('\n')
+
             yield {
-                "_index": "baiviettest3",
-                "_type": "baiviet2",
+                "_index": "baivietbaomoi2",
+                "_type": "baiviet",
                 'title': contentMod[0],
                 'sum': contentMod[1],
                 'content': contentMod[2],
@@ -28,17 +29,17 @@ def gendata():
 def testdata():
     # mywords = ['foo', 'bar', 'baz']
     for filename in os.listdir("data"):
-        with open(os.path.join('data', filename)) as f:
+        with open(os.path.join('data', filename), encoding='utf8') as f:
             content = f.read()
             contentMod = content.split('\n')
-            if len(contentMod) == 10:
+            if len(contentMod) != 7:
                 print(content)
                 print(filename)
 
 
 def fillter_data():
     for filename in os.listdir("data"):
-        with open(os.path.join('data', filename)) as f:
+        with open(os.path.join('data', filename), encoding='utf8') as f:
             content = f.read()
             contentMod = content.split('\n')
             if len(contentMod) != 7:
@@ -50,14 +51,14 @@ def fillter_data():
 
 
 def count_file():
-    DIR = 'data/'
+    DIR = 'datasegment/'
     fileCount = len([name for name in os.listdir(
         DIR) if os.path.isfile(os.path.join(DIR, name))])
     print(fileCount)
 # fillter_data()
-# count_file()
-bulk(es, gendata())
+# testdata()
+count_file()
+# bulk(es, gendata())
 # res = es.search(index="baiviettest", body={"query": {"match_all": {}}})
 # for hit in res['hits']['hits']:
 #     print( hit["_source"])
-# es.indices.delete
