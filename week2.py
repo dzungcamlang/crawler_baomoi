@@ -8,8 +8,9 @@ from readFile import read_content, read_date, write_segment, save_result_segment
 DIR = 'data'
 result = {}
 for idx, filename in enumerate(os.listdir(DIR)):
-	print(idx)
-	if idx > 100: break
+    print(idx)
+    if idx > 100:
+        break
     content = read_content(DIR + '/' + filename)
     conten_seg = word_tokenize(content)
     # write_segment(filename, conten_seg)
@@ -24,4 +25,3 @@ for idx, filename in enumerate(os.listdir(DIR)):
 
 save_result_segment(result)
 print(len(result))
-

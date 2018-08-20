@@ -27,4 +27,4 @@ def write_segment(file_name, content_segmented):
 
 def save_result_segment(content):
     with open('segment.txt', 'w') as f:
-        f.write(str(content_segmented))
+        f.write(str(content))

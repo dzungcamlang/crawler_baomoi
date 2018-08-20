@@ -1,20 +1,27 @@
-from collections import Counter
+import pandas as pd
+from sklearn.feature_extraction.text import CountVectorizer
+from underthesea import word_tokenize
+from readFile import read_content
+import os
 
 
-def write_file():
-    c = Counter('abcdeabcdabcaba')
-    with open('abc.txt', 'w') as f:
-        for k, v in c.most_common():
-            f.write("{} {}\n".format(k, v))
+def tokenize(text):
+    tokens = word_tokenize(text)
+    # stems = []
+    # for item in tokens:
+    #     stems.append(PorterStemmer().stem(item))
+    return tokens
 
-
-def read_file():
-    with open('abc.txt', encoding='utf8') as f:
-        dict_for_read = {}
-        for line in f:
-            key, value = line.strip().split(' ')
-            dict_for_read[key] = value
-        return Counter(dict_for_read)
-
-a = read_file()
-print(a)
+# your corpus
+DIR = 'datatest'
+text = list(map(lambda f: read_content(
+    DIR + '/' + f), os.listdir(DIR)))
+# word tokenize and stem
+text = [tokenize(txt.lower()) for txt in text]
+vectorizer = CountVectorizer()
+matrix = vectorizer.fit_transform(text).todense()
+# transform the matrix to a pandas df
+matrix = pd.DataFrame(matrix, columns=vectorizer.get_feature_names())
+# sum over each document (axis=0)
+top_words = matrix.sum(axis=0).sort_values(ascending=False)
+print(top_words)

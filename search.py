@@ -70,6 +70,33 @@ def search_tags_by_category():
     return es.search(index='baivietbaomoi2', body=query)
 
 
+def search_100_tags():
+    query = {
+        "aggs": {
+            "tag": {
+                "terms": {
+                    "field": "tags.keyword",
+                    "size": 20
+                }
+            }
+        }
+    }
+    return es.search(index='baivietbaomoi2', body=query)
+
+
+def search_key_words():
+query = {
+    "aggs": {
+        "tag": {
+            "terms": {
+                "field": "content.keyword"
+            }
+        }
+    }
+}
+return es.search(index='baivietbaomoi2', body=query)
+
+
 def search_tags_by_month():
     query = {
         "aggs": {
@@ -93,6 +120,7 @@ def search_tags_by_month():
     return es.search(index='baivietbaomoi2', body=query)
 
 
-res = search_tags_by_category()
+res = search_100_tags()
+# res = search_tags_by_category()
 # res = search_tags_by_month()
 print(res['aggregations'])
