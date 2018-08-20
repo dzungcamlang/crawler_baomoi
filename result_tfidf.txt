@@ -1,0 +1,177 @@
+
+
+Top words in category Xã hội
+Word: Nguyễn Tấn Dũng, TF-IDF: 0.01841
+Word: Đối thoại, TF-IDF: 0.01595
+Word: Quốc hội, TF-IDF: 0.01391
+Word: Biển Đông, TF-IDF: 0.0135
+Word: Đại biểu, TF-IDF: 0.01268
+Word: An ninh, TF-IDF: 0.01268
+Word: Singapore, TF-IDF: 0.01063
+Word: Hợp tác, TF-IDF: 0.01063
+Word: Trung Quốc, TF-IDF: 0.01023
+Word: Công tác, TF-IDF: 0.00982
+Word: Ngư dân, TF-IDF: 0.00982
+Word: Hòa bình, TF-IDF: 0.00941
+Word: Thủ tướng, TF-IDF: 0.009
+Word: Quốc phòng, TF-IDF: 0.009
+Word: Quy định, TF-IDF: 0.009
+Word: Nắng nóng, TF-IDF: 0.00859
+Word: Thứ trưởng, TF-IDF: 0.00859
+Word: Nhân dân, TF-IDF: 0.00859
+Word: Hội nghị, TF-IDF: 0.00859
+Word: Asean, TF-IDF: 0.00818
+
+Top words in category Thế giới
+Word: Trung Quốc, TF-IDF: 0.04085
+Word: Syria, TF-IDF: 0.0275
+Word: Nga, TF-IDF: 0.02589
+Word: Mỹ, TF-IDF: 0.02265
+Word: Tên lửa, TF-IDF: 0.01901
+Word: Vũ khí, TF-IDF: 0.01861
+Word: Hải quân, TF-IDF: 0.01861
+Word: Biển Đông, TF-IDF: 0.0182
+Word: Philippines, TF-IDF: 0.01618
+Word: Quân đội, TF-IDF: 0.01497
+Word: Tổng thống, TF-IDF: 0.01133
+Word: Liên minh châu âu, TF-IDF: 0.01133
+Word: Quân sự, TF-IDF: 0.01052
+Word: Chủ quyền, TF-IDF: 0.01011
+Word: Nhật Bản, TF-IDF: 0.01011
+Word: Triều tiên, TF-IDF: 0.01011
+Word: Máy bay, TF-IDF: 0.01011
+Word: Hệ thống, TF-IDF: 0.00971
+Word: Tàu chiến, TF-IDF: 0.00971
+Word: Phòng không, TF-IDF: 0.00971
+
+Top words in category Văn hóa
+Word: Du khách, TF-IDF: 0.02638
+Word: Du lịch, TF-IDF: 0.02398
+Word: Hoa hậu, TF-IDF: 0.01759
+Word: Cuộc thi, TF-IDF: 0.01599
+Word: Người đẹp, TF-IDF: 0.01199
+Word: Hoa hậu Việt Nam, TF-IDF: 0.01039
+Word: Miss World, TF-IDF: 0.00879
+Word: Tour, TF-IDF: 0.0072
+Word: Tham quan, TF-IDF: 0.0072
+Word: Thí sinh, TF-IDF: 0.0072
+Word: Đặng Thu Thảo, TF-IDF: 0.0064
+Word: Di tích, TF-IDF: 0.0064
+Word: Chế biến, TF-IDF: 0.0064
+Word: Thiếu nhi, TF-IDF: 0.0064
+Word: Trang web chính thức, TF-IDF: 0.0056
+Word: Món ăn, TF-IDF: 0.0056
+Word: Thành phố hồ chí minh, TF-IDF: 0.0056
+Word: Bảo tàng, TF-IDF: 0.0056
+Word: Diễm Hương, TF-IDF: 0.0056
+Word: Bốc mùi, TF-IDF: 0.0056
+
+Top words in category Kinh tế
+Word: Ngân hàng, TF-IDF: 0.02689
+Word: Ngân hàng nhà nước việt nam, TF-IDF: 0.01727
+Word: Nợ xấu, TF-IDF: 0.01443
+Word: Nền kinh tế, TF-IDF: 0.01399
+Word: Tín dụng, TF-IDF: 0.0129
+Word: Lãi suất, TF-IDF: 0.0118
+Word: Dự án, TF-IDF: 0.0118
+Word: Usd, TF-IDF: 0.01071
+Word: Xuất khẩu, TF-IDF: 0.01071
+Word: Đầu tư, TF-IDF: 0.01049
+Word: Nhà đầu tư, TF-IDF: 0.0094
+Word: Giao dịch, TF-IDF: 0.0094
+Word: Tăng trưởng, TF-IDF: 0.00896
+Word: Cho vay, TF-IDF: 0.00874
+Word: Lạm phát, TF-IDF: 0.00874
+Word: Chính sách, TF-IDF: 0.00809
+Word: Thị trường, TF-IDF: 0.00743
+Word: Nhà máy, TF-IDF: 0.00743
+Word: Cổ phiếu, TF-IDF: 0.00743
+Word: Thuế, TF-IDF: 0.00721
+
+Top words in category Giáo dục
+Word: Học sinh, TF-IDF: 0.07058
+Word: Kỳ thi, TF-IDF: 0.0547
+Word: Thí sinh, TF-IDF: 0.03794
+Word: Trung học phổ thông, TF-IDF: 0.03353
+Word: Tốt nghiệp thpt, TF-IDF: 0.02911
+Word: Coi thi, TF-IDF: 0.02294
+Word: Tuyển sinh, TF-IDF: 0.02206
+Word: Đại học, TF-IDF: 0.02117
+Word: Sinh viên, TF-IDF: 0.02117
+Word: Đào tạo, TF-IDF: 0.02029
+Word: Hội đồng thi, TF-IDF: 0.01764
+Word: Bộ giáo dục và đào tạo, TF-IDF: 0.01764
+Word: Tốt nghiệp, TF-IDF: 0.01588
+Word: Sở giáo dục đào tạo, TF-IDF: 0.01588
+Word: Đề thi, TF-IDF: 0.01588
+Word: Làm bài, TF-IDF: 0.01323
+Word: Nhà trường, TF-IDF: 0.01235
+Word: Giáo dục, TF-IDF: 0.01176
+Word: Năm học, TF-IDF: 0.01147
+Word: Thi tốt nghiệp, TF-IDF: 0.01147
+
+Top words in category Pháp luật
+Word: Công an, TF-IDF: 0.03251
+Word: Tai nạn, TF-IDF: 0.01918
+Word: Nạn nhân, TF-IDF: 0.01637
+Word: Đối tượng, TF-IDF: 0.0152
+Word: Hiện trường, TF-IDF: 0.01333
+Word: Cướp, TF-IDF: 0.01286
+Word: Mô tô, TF-IDF: 0.01029
+Word: Ô tô, TF-IDF: 0.00982
+Word: Bị cáo, TF-IDF: 0.00982
+Word: Cơ quan công an, TF-IDF: 0.00865
+Word: Phúc Thọ, TF-IDF: 0.00842
+Word: Khởi tố, TF-IDF: 0.00819
+Word: Tài sản, TF-IDF: 0.00772
+Word: Vi phạm, TF-IDF: 0.00702
+Word: Tài xế, TF-IDF: 0.00678
+Word: Lừa đảo, TF-IDF: 0.00678
+Word: Gây tai nạn, TF-IDF: 0.00655
+Word: Lái xe, TF-IDF: 0.00631
+Word: Đồng Nai, TF-IDF: 0.00631
+Word: Biển kiểm soát, TF-IDF: 0.00608
+
+Top words in category Thể thao
+Word: Huấn luyện viên, TF-IDF: 0.03623
+Word: Cầu thủ, TF-IDF: 0.03313
+Word: Real madrid, TF-IDF: 0.03048
+Word: Đội bóng, TF-IDF: 0.02827
+Word: Barcelona, TF-IDF: 0.02297
+Word: Mùa giải, TF-IDF: 0.02165
+Word: Câu lạc bộ, TF-IDF: 0.01767
+Word: Chelsea, TF-IDF: 0.01679
+Word: José Mourinho, TF-IDF: 0.01679
+Word: Neymar, TF-IDF: 0.01458
+Word: Thi đấu, TF-IDF: 0.01414
+Word: Tiền đạo, TF-IDF: 0.01281
+Word: Bayern, TF-IDF: 0.01237
+Word: Chuyển nhượng, TF-IDF: 0.01149
+Word: Champions league, TF-IDF: 0.01104
+Word: Euro, TF-IDF: 0.01104
+Word: Arsenal, TF-IDF: 0.0106
+Word: Giải bóng đá ngoại hạng Anh, TF-IDF: 0.01016
+Word: Liên đoàn bóng đá việt nam, TF-IDF: 0.00972
+Word: Tuyển Anh, TF-IDF: 0.00972
+
+Top words in category Giải trí
+Word: Phim, TF-IDF: 0.01616
+Word: Bộ phim, TF-IDF: 0.01269
+Word: Váy, TF-IDF: 0.01192
+Word: Ca khúc, TF-IDF: 0.01154
+Word: Khán giả, TF-IDF: 0.01115
+Word: Sân khấu, TF-IDF: 0.01039
+Word: Trang phục, TF-IDF: 0.01
+Word: MV, TF-IDF: 0.01
+Word: Nghệ sĩ, TF-IDF: 0.00962
+Word: Diễn viên, TF-IDF: 0.00885
+Word: Nữ ca sĩ, TF-IDF: 0.00846
+Word: Video clip, TF-IDF: 0.00846
+Word: Đàm Vĩnh Hưng, TF-IDF: 0.00846
+Word: Người đẹp, TF-IDF: 0.00846
+Word: Đạo diễn, TF-IDF: 0.00846
+Word: Liên hoan phim Cannes, TF-IDF: 0.00808
+Word: Cannes, TF-IDF: 0.00731
+Word: Âm nhạc, TF-IDF: 0.00692
+Word: Thảm đỏ, TF-IDF: 0.00692
+Word: The Voice, TF-IDF: 0.00654
