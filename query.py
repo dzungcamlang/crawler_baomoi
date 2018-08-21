@@ -1,5 +1,16 @@
 from test_tf_idf import cal_tf_idf_dict
 from elasticsearch import Elasticsearch
+from underthesea import ner
+
+
+def filter_noun_person(content):
+    a = ner(content)
+    list = []
+    for i in a:
+        for u in i:
+            if u == 'Np':
+                list.append(i[0])
+    return list
 
 
 def append_tags_for_post(category_dict, post_source):
@@ -7,6 +18,15 @@ def append_tags_for_post(category_dict, post_source):
     tags = post_source['tags']
     if category_adding in category_dict:
         category_dict[category_adding].extend(tags)
+
+    return category_dict
+
+
+def append_content_noun_person_for_post(category_dict, post_source):
+    category_adding = post_source['category']
+    content_noun = filter_noun_person(post_source['sum'])
+    if category_adding in category_dict:
+        category_dict[category_adding].extend(content_noun)
 
     return category_dict
 
@@ -67,12 +87,13 @@ def find_category_dict():
         "Giải trí": []
     }
     for post in hits:
-        category_dict = append_tags_for_post(category_dict, post['_source'])
+        category_dict = append_content_noun_person_for_post(
+            category_dict, post['_source'])
         # result.append(post['source']['userid'] + '' + post['_source']['docId'])
         # print(post['source']['userid'] + '' + post['_source']['docId'])
         # print(len(result))
     scroll_size = page['hits']['total']  # Start scrolling
-    count = 100
+    count = 5
     while count > 0:
         count -= 1
         print('scroll size', scroll_size)
@@ -84,8 +105,10 @@ def find_category_dict():
         # scroll_size = len(page['hits']['hits'])
         hits = page['hits']['hits']
         for post in hits:
-            category_dict = append_tags_for_post(
+            category_dict = append_content_noun_person_for_post(
                 category_dict, post['_source'])
+            # category_dict = append_tags_for_post(
+            #     category_dict, post['_source'])
             # result.append(post['source']['userid'] +
             #               '' + post['_source']['docId'])
             # print(post['source']['userid'] + '' + post['_source']['docId'])

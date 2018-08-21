@@ -27,11 +27,11 @@ def tfidf(word, blob, bloblist):
 def cal_tf_idf_dict(blobdict):
     with open('result_tfidf.txt', 'w') as f:
         for blob, blob_value in blobdict.items():
-            f.write("\n\nTop words in category {}".format(blob))
+            print("Top words in category {}".format(blob))
             scores = {word: tfidf(word, blob_value, blobdict.items())
                       for word in blob_value}
             sorted_words = sorted(
                 scores.items(), key=lambda x: x[1], reverse=True)
             for word, score in sorted_words[:20]:
-                f.write("\nWord: {}, TF-IDF: {}".format(word, round(score, 5)))
+                print("\tWord: {}, TF-IDF: {}".format(word, round(score, 5)))
                 # f.write(str(content))
