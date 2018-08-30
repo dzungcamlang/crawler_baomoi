@@ -25,13 +25,23 @@ def tfidf(word, blob, bloblist):
 
 
 def cal_tf_idf_dict(blobdict):
-    with open('result_tfidf.txt', 'w') as f:
-        for blob, blob_value in blobdict.items():
-            print("Top words in category {}".format(blob))
-            scores = {word: tfidf(word, blob_value, blobdict.items())
-                      for word in blob_value}
-            sorted_words = sorted(
-                scores.items(), key=lambda x: x[1], reverse=True)
-            for word, score in sorted_words[:20]:
-                print("\tWord: {}, TF-IDF: {}".format(word, round(score, 5)))
-                # f.write(str(content))
+    # with open('result_tfidf.txt', 'w') as f:
+    # print(blobdict)
+    for blob, blob_value in blobdict.items():
+        print("Top tags in category {}".format(blob))
+        scores = {word: tfidf(word, blob_value, blobdict.items())
+                  for word in blob_value}
+        sorted_words = sorted(
+            scores.items(), key=lambda x: x[1], reverse=True)
+        for word, score in sorted_words[:20]:
+            print("\ttag: {}, TF-IDF: {}".format(word, round(score, 5)))
+            # f.write(str(content))
+
+
+def print_counter_top(category_dict, type_count):
+    for k, value in category_dict.items():
+        print("Top {} in category {}".format(type_count, k))
+        # print(value)
+        for i in value.most_common()[:20]:
+            print(type_count, i[0], i[1])
+            # print("\t{}: {}, times: {}".format(type_count, i[0], i[1]))

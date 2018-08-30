@@ -1,4 +1,11 @@
 data
 datatest
+data2
+data_idf
+data_json_test
+datacounter
+datacounter_if_idf
+datacounter_transform
+
 .idea/workspace.xml
 __pycache__
